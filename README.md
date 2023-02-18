@@ -21,7 +21,7 @@ $ npm install
 $ node index.js
 
 
-cara install servicenya
+cara install servicenya agar bisa di close terminal nya
 1. copy file openai.service 
 	$ sudo cp openai.service /etc/systemd/system/
 	$ sudo systemctl enable openai
