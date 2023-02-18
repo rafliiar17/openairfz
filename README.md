@@ -14,21 +14,28 @@ Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>U
 
 Install [NodeJS](https://nodejs.org/en/download/)
  dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
-```bash
-$ git clone https://github.com/Sansekai/Wa-OpenAI
-$ cd Wa-OpenAI
-$ npm install
-$ node index.js
 
+```bash
+	$ git clone https://github.com/rafliiar17/openairfz
+	$ cd openairfz
+	$ npm install
 
 cara install servicenya agar bisa di close terminal nya
 1. copy file openai.service 
 	$ sudo cp openai.service /etc/systemd/system/
-	$ sudo systemctl enable openai
+	$ sudo systemctl enable openai.service
+		-> ini untuk install service nya
+		
+   untuk uninstall service nya bisa dipakai syntax dibawah
+   	$ sudo systemctl disable openai.service
 
 2. lalu lihat barcode untuk login nya
 	$ ./log.sh
 
+3. option -> 
+	1. restart $ sudo systemctl restart openai.service
+	2. start $ sudo systemctl start openai.service
+	3. stop $ sudo systemctl stop openai.service
 
 
 ```
