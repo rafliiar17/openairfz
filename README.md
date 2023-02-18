@@ -33,9 +33,12 @@ cara install servicenya agar bisa di close terminal nya
 	$ ./log.sh
 
 3. option -> 
-	1. restart $ sudo systemctl restart openai.service
-	2. start $ sudo systemctl start openai.service
-	3. stop $ sudo systemctl stop openai.service
+	1. restart 
+		-> $ sudo systemctl restart openai.service
+	2. start 
+		-> $ sudo systemctl start openai.service
+	3. stop 
+		-> $ sudo systemctl stop openai.service
 
 
 ```
