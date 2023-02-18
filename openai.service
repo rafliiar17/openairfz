@@ -2,8 +2,8 @@
 Description=openai.service
 
 [Service]
-ExecStart=/usr/bin/node /opt/AI/index.js
-WorkingDirectory=/opt/AI/
+ExecStart=/usr/bin/node /opt/openairfz/index.js
+WorkingDirectory=/opt/openairfz/
 Restart=no
 
 [Install]
