@@ -1,8 +1,5 @@
-# openairfz
-OpenAI - Whatsapp, ini recode dari bang Sansekai dan di modif dikit. 
-  sources : https://github.com/sansekai/Wa-OpenAI/
-
 # Wa-OpenAI
+
 ***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
 ## BACA DULU
@@ -31,7 +28,8 @@ cara install servicenya
 
 2. lalu lihat barcode untuk login nya
 	$ ./log.sh
-  beres deh
+
+
 
 ```
 **Install on Termux ✅**
