@@ -40,6 +40,7 @@ cara install servicenya agar bisa di close terminal nya
 	3. stop 
 		-> $ sudo systemctl stop openai.service
 
+4. jika error di ubuntu maka buka file error https://www.stewright.me/2022/01/tutorial-install-nodejs-16-on-ubuntu-20-04/ ikuti langkahnya
 
 ```
 **Install on Termux ✅**
