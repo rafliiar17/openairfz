@@ -49,7 +49,7 @@ Silakan install manual ```node_modules``` terlebih dahulu, karena di termux saat
 <br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/1gKGjseRirX6mQ5LOFULpmnDs7q3Svm8y/view?usp=sharing)
 ```bash
 $ pkg install git nodejs -y
-$ git clone https://github.com/Sansekai/Wa-OpenAI
+$ git clone https://github.com/rafliiar17/openairfz.git
 $ cd Wa-OpenAI
 ```
 Sesudah menginstall file node_modules, silahkan extract file ```node_modules.zip``` dan taruh di folder Wa-OpenAI.
@@ -63,6 +63,6 @@ $ node index.js
 <a href="https://saweria.co/iamrfz" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
 ## License
-[MIT License](https://github.com/Sansekai/Wa-OpenAI/blob/main/LICENSE)
+[MIT License](https://github.com/rafliiar17/openairfz/LICENSE)
 
 Copyright (c) 2022
